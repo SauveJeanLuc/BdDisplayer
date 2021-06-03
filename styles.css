@@ -142,7 +142,11 @@ span {
 .important-messages .row .col-md-4{
     margin-top: 3em;
 }
+.important-messages .row .col-md-8{
+    margin-top: 3em;
+}
 .important-messages img{
+    margin-top: 3em;
     width: 100%;
     /* height: 70%; */
     margin-left: 0.2em;
